@@ -21,6 +21,7 @@ Hi, I'm Tina!
 https://user-images.githubusercontent.com/96771110/163908907-c53c679f-b563-44f8-9ce0-dab234ca7830.mp4
 
 - CRUD
+- 點選查看網站 https://bigmouthfish.000webhostapp.com/ticket_insert.php
 
 https://user-images.githubusercontent.com/96771110/163908935-444bbd87-6818-45ff-a00e-17be23c19afb.mp4
 
