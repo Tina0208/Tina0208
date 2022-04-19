@@ -29,6 +29,7 @@ https://user-images.githubusercontent.com/96771110/163908935-444bbd87-6818-45ff-
 https://user-images.githubusercontent.com/96771110/163909743-22819cc9-513a-4dc9-b782-05ae590940d1.mp4
 
 - 學籽首頁切版(手切/RWD)
+- 點選查看網站 https://tina0208.github.io/project-1/
 
 https://user-images.githubusercontent.com/96771110/163909756-282eb001-8db0-4376-8527-2b5764601176.mp4
 
