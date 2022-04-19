@@ -25,6 +25,7 @@ https://user-images.githubusercontent.com/96771110/163908907-c53c679f-b563-44f8-
 https://user-images.githubusercontent.com/96771110/163908935-444bbd87-6818-45ff-a00e-17be23c19afb.mp4
 
 - 茶湯會首頁切版(手切)
+- 點選查看網站 https://tina0208.github.io/project-2/
 
 https://user-images.githubusercontent.com/96771110/163909743-22819cc9-513a-4dc9-b782-05ae590940d1.mp4
 
@@ -34,6 +35,7 @@ https://user-images.githubusercontent.com/96771110/163909743-22819cc9-513a-4dc9-
 https://user-images.githubusercontent.com/96771110/163909756-282eb001-8db0-4376-8527-2b5764601176.mp4
 
 - Bootstrap切版
+- 點選查看網站 https://tina0208.github.io/project-3/
 
 https://user-images.githubusercontent.com/96771110/163912440-eaebcbd9-83b8-4dc6-9f52-71786d14215c.mp4
 
