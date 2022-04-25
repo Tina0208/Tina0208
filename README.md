@@ -25,6 +25,13 @@ https://user-images.githubusercontent.com/96771110/163908907-c53c679f-b563-44f8-
 
 https://user-images.githubusercontent.com/96771110/163908935-444bbd87-6818-45ff-a00e-17be23c19afb.mp4
 
+- 第三方API串接(台北市人口戶數及性別/RWD)
+- 點選查看網站 https://tina0208.github.io/taipei-population/
+
+https://user-images.githubusercontent.com/96771110/165015994-cda98438-fe7b-4a0f-aac7-0bbc53ffbde7.mp4
+
+
+
 - 茶湯會首頁切版(手切)
 - 點選查看網站 https://tina0208.github.io/project-2/
 
