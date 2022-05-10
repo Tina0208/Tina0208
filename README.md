@@ -36,7 +36,10 @@ https://user-images.githubusercontent.com/96771110/163908935-444bbd87-6818-45ff-
 使用技術：React、HTML、CSS、AJAX、JavaScript、Chart.js<br>
 
 https://user-images.githubusercontent.com/96771110/165015994-cda98438-fe7b-4a0f-aac7-0bbc53ffbde7.mp4
+### 板橋凱薩飯店首頁切版(手刻) | 點選查看網站 https://tina0208.github.io/project-4/
+使用技術：HTML、CSS、JavaScript、jQuery<br>
 
+https://user-images.githubusercontent.com/96771110/167603162-aa026b33-a27e-4d59-b57c-eb38567f227f.mp4
 
 ### 茶湯會首頁切版(手刻) | 點選查看網站 https://tina0208.github.io/project-2/
 使用技術：HTML、CSS、jQuery<br>
