@@ -1,9 +1,10 @@
-## <img width="30px" src="https://www.emojiall.com/en/header-svg/%F0%9F%90%A0.svg" />  Tina Ho
+## Tina Ho
 
-Hi, I'm Tina! 
+擁有日本人的細膩、台灣人的熱情！<br>
+熱愛程式開發的前端工程師
 
 ## 🧠 程式能力
-### 📚 程式語言/框架
+### 程式語言/框架
 - HTML5
 - CSS3
 - SCSS
@@ -19,7 +20,7 @@ Hi, I'm Tina!
 - MySQL
 - node.js
 
-### 🔧 工具
+### 工具
 - Jenkins
 - visual studio code
 
@@ -28,6 +29,8 @@ Hi, I'm Tina!
 作品日期：2024/7<br>
 使用技術：Angular、RxJS非同步處理、NgRX狀態管理、HTML、Tailwind&SCSS切版、JavaScript&TypeScript邏輯處理<br>
 ( 商品頁lazy render、登入-> 商品頁-> 購物車頁-> 結帳頁完整流程 )<br>
+
+https://github.com/user-attachments/assets/f11617e3-06e6-4c8f-ab71-56e011f0c52b
 
 ### 旅遊網站訂票頁<br>
 作品日期：2022/3<br>
