@@ -27,7 +27,7 @@
 ## 💡 作品集
 ### 小型購物網站 | 點選查看源碼 https://github.com/Tina0208/shop<br>
 作品日期：2024/7<br>
-使用技術：Angular、RxJS非同步處理、NgRX狀態管理、HTML、Tailwind&SCSS切版、JavaScript&TypeScript邏輯處理<br>
+使用技術：Angular、RxJS非同步處理、NgRx狀態管理、HTML、Tailwind&SCSS切版、JavaScript&TypeScript邏輯處理<br>
 ( 商品頁lazy render、登入-> 商品頁-> 購物車頁-> 結帳頁完整流程 )<br>
 
 https://github.com/user-attachments/assets/1f9326c5-6346-424b-a0f2-eb3238f31cad
